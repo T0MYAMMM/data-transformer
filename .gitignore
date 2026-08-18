@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# Runtime output — user-loaded datasets and saved scripts
+saved_data/
+saved_scripts/
+
+# Tooling
+.streamlit/secrets.toml
+.local/
+.replit
+.pytest_cache/
+.DS_Store
